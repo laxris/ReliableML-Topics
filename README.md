@@ -1,5 +1,5 @@
-# The Top 10 Topics in Machine Learning Revisited: A Quantitative Meta-Study
+# Topics and Methods in Networking
 
-Source code of results published in:
+Code based on Source code of results published in: "The Top 10 Topics in Machine Learning Revisited: A Quantitative Meta-Study"
 
 `P. Glauner, M. Du, V. Paraschiv, A. Boytsov, I. Lopez Andrade, J. Meira, P. Valtchev and R. State, "The Top 10 Topics in Machine Learning Revisited: A Quantitative Meta-Study", Proceedings of the 25th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2017), Bruges, Belgium, 2017.`
